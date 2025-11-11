@@ -1,5 +1,3 @@
-Here’s your README with **all main headings bolded and formatted cleanly** for GitHub markdown:
-
 ---
 
 # **32-Bit ALU (Arithmetic Logic Unit)**
