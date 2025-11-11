@@ -76,9 +76,13 @@ To test, instantiate the ALU in a testbench and apply different sel values with 
 
  File Structure
  ALU_32bit
+ 
  ┣  alu_32bit.v        # Main Verilog source file
+ 
  ┣  alu_32bit_tb.v     # (Optional) Testbench file
+ 
  ┗  README.md           # Project documentation
+ 
 
  Tools Used
 
